@@ -1,0 +1,7 @@
+{
+  "name": "Movie-Stash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
